@@ -12,6 +12,7 @@ h2{
 .paraOne{
     width: 30rem;
 }
+
 p{
     margin-left: 1rem;
 }
@@ -21,9 +22,6 @@ img{
     height: 50px;
     float: right;
     margin-right:88rem
-
-
-
 }
 
 article{
@@ -31,5 +29,4 @@ article{
     vertical-align: bottom;
     width: 200px;
     border: solid black 1px;
-
 }
