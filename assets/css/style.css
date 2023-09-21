@@ -1,0 +1,35 @@
+
+.titleh1{
+    position: sticky;
+    left: 50px;
+    top: 0;
+    margin-bottom: 25rem;
+}
+h2{
+    margin-left: 50px;
+}
+
+.paraOne{
+    width: 30rem;
+}
+p{
+    margin-left: 1rem;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right:38rem
+
+
+
+}
+
+article{
+    display:inline-block;
+    vertical-align: bottom;
+    width: 200px;
+    border: solid black 1px;
+
+}
